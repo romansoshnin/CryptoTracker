@@ -2,7 +2,10 @@ package com.plcoding.cryptotracker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val greenBackground = Color(0xFF119B00)
+val onSuccessContainer = Color(0xFFFFFFFF)
+val successContainer = Color(0xFF119B00)
+val onErrorContainer = Color(0xFFFFFFFF)
+val errorContainer = Color(0xFFFF0000)
 
 val primaryLight = Color(0xFF38693C)
 val onPrimaryLight = Color(0xFFFFFFFF)
